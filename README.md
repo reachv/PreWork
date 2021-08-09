@@ -1,6 +1,6 @@
-# Project 1 - *MyApplications*
+# Project 1 - Pre-Work
 
-*MyApplications* is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+Pre-Work is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: *Reach Vann*
 
@@ -30,9 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
